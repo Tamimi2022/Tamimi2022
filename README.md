@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tamimi2022
 - 👀 I’m interested in Full stack Developer
-- 🌱 I’m done with Web Development
+- 🌱 I’m done with Web Development and Front-End
 - 💞️ I’m looking to collaborate on ...
 - 📫 tamimi2021farid@gmail.com
 
