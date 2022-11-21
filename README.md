@@ -1,3 +1,6 @@
+![1645475224816](https://user-images.githubusercontent.com/97972332/203011554-acf87fb6-33ef-464a-8035-cb66803855a7.jpeg)
+
+
 - 👋 Hi, I’m @Tamimi2022
 - 👀 I’m interested in Full stack Developer
 - 🌱 I’m done with Web Development and Front-End
