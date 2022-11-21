@@ -1,10 +1,9 @@
 ![1645475224816](https://user-images.githubusercontent.com/97972332/203011554-acf87fb6-33ef-464a-8035-cb66803855a7.jpeg)
 
 
-- 👋 Hi, I’m @Tamimi2022
-- I’m a Full stack Developer
-- 🌱 I’m done with Web Development and Front-End
-- 🌱 Currently learning Back-End and will finish very soon
+- 👋 <h1>Hi, I’m Farid Attamimi</h1>
+- 🌱 I’m a Full stack Developer
+- 🌱 Front-End and Back-End Development
 - 💞️ I’m looking to collaborate with anyone on ...
 - 📫 tamimi2021farid@gmail.com
 
