@@ -2,7 +2,7 @@
 
 
 - 👋 Hi, I’m @Tamimi2022
-- 👀 I’m interested in Full stack Developer
+- I’m a Full stack Developer
 - 🌱 I’m done with Web Development and Front-End
 - 🌱 Currently learning Back-End and will finish very soon
 - 💞️ I’m looking to collaborate with anyone on ...
