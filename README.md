@@ -9,3 +9,5 @@
 Tamimi2022/Tamimi2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![Deploy badge](https://github.com/tamimi2022/cd-project2022/actions/workflows/run-tests_deploy.yml/badge.svg)
