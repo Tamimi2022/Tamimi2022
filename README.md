@@ -2,7 +2,7 @@
 
 
   👋 <h1>Hi, I’m Farid Attamimi</h1>
-- 🌱 I’m a Full stack Developer
+- 🌱 I’m a Full stack Developer/Software Engineer
 - 🌱 Front-End and Back-End Development
 - 💞️ I’m looking to collaborate with anyone on ...
 - 📫 tamimi2021farid@gmail.com
